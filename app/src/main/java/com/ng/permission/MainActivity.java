@@ -44,7 +44,9 @@ public class MainActivity extends AppCompatActivity {
         }
         return true;
     }
-
+/*
+* Welcome to permission
+* */
 
     @Override
     public void onRequestPermissionsResult(int requestCode, String permissionsList[], int[] grantResults) {
